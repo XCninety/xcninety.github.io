@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700|Nanum+Gothic+Coding&amp;subset=korean');
+@import url(../master/NanumBarunCatsi.css);
+
+@supports(--css: variables) {
+
+:root {
+    /* Typefaces */
+    --body-font: 'Open Sans', 'NanumBarunCatsi', sans-serif;
+    --header-font: 'Poppins', 'NanumBarunCatsi', sans-serif;
+    --title-font: 'Poppins', 'NanumBarunCatsi', sans-serif;
+    --mono-font: "Nanum Gothic Coding", monospace;
+}
+
+p,
+span,
+div,
+li {
+    font-family: var(--body-font), sans-serif;
+}
+ 
+.code *,
+pre * {
+    font-family: var(--mono-font), 'Courier New', Courier, monospace;
+}
+ 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: var(--body-font), sans-serif !important;
+}
+ 
+#page-title {
+    font-family: var(--title-font), sans-serif !important;
+}
+ 
+#header h1,
+#header h2 {
+    font-family: var(--header-font), sans-serif !important;
+}
+ 
+#header h1 a {
+    font-family: var(--header-font), sans-serif !important;
+}
+ 
+#header h2 span {
+    font-family: var(--header-font), sans-serif !important;
+}
+ 
+@-moz-document url-prefix() {
+    .emph {
+        font-family: var(--header-font);
+    }
+}
+ 
+@media screen and (-ms-high-contrast: active),
+(-ms-high-contrast: none) {
+    .emph {
+        font-family: var(--mono-font);
+    }
+}
+ 
+@media (max-width: 767px)  {
+    .open-menu a {
+        font-family: var(--body-font), san-serif;
+    }
+}
+ 
+#side-bar .side-block:nth-child(3) {
+    background-color: rgba(140, 20, 25, 0.25) !important;
+    background-color: rgba(var(--swatch-primary-darker), 0.25) !important
+}
+ 
+#side-bar .side-block:nth-child(5) {
+    background-color: rgba(100, 3, 15, 0.3) !important;
+    background-color: rgba(var(--swatch-primary-darkest), 0.3) !important
+}
+ 
+#side-bar .side-block:nth-child(6) {
+    background-color: rgba(140, 20, 25, 0.15) !important;
+    background-color: rgba(var(--swatch-primary-darker), 0.15) !important
+}
+ 
+#side-bar .side-block:nth-child(7) {
+    background-color: rgba(140, 20, 25, 0.25) !important;
+    background-color: rgba(var(--swatch-primary-darker), 0.25) !important
+}
+ 
+#side-bar div.side-block:nth-child(7)>div:nth-child(1)>div:nth-child(1) img {
+    -webkit-filter:none;
+    filter:none
+}
