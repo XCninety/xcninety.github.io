@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Nanum SoMiCe';
+    src: url('http://xcninety.github.io/fonts/Nanum%20SoMiCe.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
