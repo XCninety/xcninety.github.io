@@ -3,6 +3,7 @@
     font-style: normal;
     font-weight: 400;
     src:
+        url(../Black-Highlighter/NanumBarunGothic_E.woff2) format('woff2'),
         url(../Black-Highlighter/NanumBarunGothic_E.woff) format('woff'),
         url(../Black-Highlighter/NanumBarunGothic_E.ttf)  format('truetype');
 }
@@ -12,6 +13,7 @@
     font-style: normal;
     font-weight: 700;
     src:
+        url(../Black-Highlighter/NanumBarunGothicBold_E.woff2) format('woff2'),
         url(../Black-Highlighter/NanumBarunGothicBold_E.woff) format('woff'),
         url(../Black-Highlighter/NanumBarunGothicBold_E.ttf)  format('truetype');
 }
