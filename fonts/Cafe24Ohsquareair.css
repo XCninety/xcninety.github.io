@@ -1,6 +1,7 @@
 @font-face {
     font-family: 'Cafe24Ohsquareair';
-    src: url('http://xcninety.github.io/fonts/Cafe24Ohsquareair.woff') format('woff');
+    src: url('http://xcninety.github.io/fonts/Cafe24Ohsquareair.woff2') format('woff2'),
+         url('http://xcninety.github.io/fonts/Cafe24Ohsquareair.woff') format('woff');
     font-weight: thin;
     font-style: normal;
 
