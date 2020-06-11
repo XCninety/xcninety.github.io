@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Nanum SoMiCe';
+    src: url('http://xcninety.github.io/fonts/Cafe24Ohsquareair.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
