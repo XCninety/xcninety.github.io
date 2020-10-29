@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Gong Gothic';
+    src: url('http://xcninety.github.io/fonts/Gong%20Gothic%20Bold.woff2') format('woff2'),
+         url('http://xcninety.github.io/fonts/Gong%20Gothic%20Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Gong Gothic';
+    src: url('http://xcninety.github.io/fonts/Gong%20Gothic%20Medium.woff2') format('woff2'),
+         url('http://xcninety.github.io/fonts/Gong%20Gothic%20Medium.woff') format('woff');
+    font-weight: medium;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Gong Gothic';
+    src: url('http://xcninety.github.io/fonts/Gong%20Gothic%20Light.woff2') format('woff2'),
+         url('http://xcninety.github.io/fonts/Gong%20Gothic%20Light.woff') format('woff');
+    font-weight: light;
+    font-style: normal;
+
+}
