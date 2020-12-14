@@ -11,8 +11,7 @@
     --mono-font: "Nanum Gothic Coding", monospace;
 }
 
-p,
-li {
+p {
     font-family: var(--body-font), sans-serif;
 }
  
