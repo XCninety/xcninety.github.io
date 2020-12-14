@@ -12,8 +12,6 @@
 }
 
 p,
-span,
-div,
 li {
     font-family: var(--body-font), sans-serif;
 }
