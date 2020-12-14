@@ -10,6 +10,13 @@
     --title-font: 'Poppins', 'NanumBarunCatsi', sans-serif;
     --mono-font: "Nanum Gothic Coding", monospace;
 }
+    
+p,
+span,
+div,
+li {
+    font-family: var(--body-font), sans-serif;
+}
  
 .code *,
 pre * {
