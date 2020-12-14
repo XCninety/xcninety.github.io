@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic+Coding&amp;subset=korean');
+@import url(../Black-Highlighter/NanumBarunCatsi.css);
+
 /* All Vars Used */
 
 :root {
@@ -12,14 +15,14 @@
 
 	/* Header */
 	--logo-image: url("https://nu-scptheme.github.io/Black-Highlighter/img/logo.svg");
-	--header-title: "SCP Foundation";
-	--header-subtitle: "SECURE, CONTAIN, PROTECT";
+	--header-title: "SCP 재단";
+	--header-subtitle: "확보, 격리, 보호";
 
 	/* Typefaces */
-	--body-font: proxima-nova, sans-serif;
-	--header-font: "Poppins", sans-serif;
-	--title-font: "Poppins", sans-serif;
-	--mono-font: "Space Mono", "Andale Mono", "Courier New", Courier, monospace;
+	--body-font: proxima-nova, 'NanumBarunCatsi', sans-serif;
+	--header-font: 'Poppins', 'NanumBarunCatsi', sans-serif;
+	--title-font: 'Poppins', 'NanumBarunCatsi', sans-serif;
+	--mono-font: "Nanum Gothic Coding", "Space Mono", "Andale Mono", "Courier New", Courier, monospace;
 
 	/* Standard Colors */
 	--white-monochrome: 252, 252, 252;
