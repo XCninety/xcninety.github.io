@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'NotoSerifKR';
+    src: url('http://xcninety.github.io/fonts/NotoSerifKR.woff2') format('woff2'),
+         url('http://xcninety.github.io/fonts/NotoSerifKR.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
