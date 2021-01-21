@@ -2,6 +2,7 @@
     font-family: '4beolNanum';
     src: url('http://xcninety.github.io/fonts/4beolNanum.woff2') format('woff2'),
          url('http://xcninety.github.io/fonts/4beolNanum.woff') format('woff');
+         url('http://xcninety.github.io/fonts/4beolNanum.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 
