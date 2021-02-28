@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'KoreanFrenchTypewriter';
+    src: url('http://xcninety.github.io/fonts/KoreanFrenchTypewriter.woff2') format('woff2'),
+         url('http://xcninety.github.io/fonts/KoreanFrenchTypewriter.woff') format('woff'),
+         url('http://xcninety.github.io/fonts/KoreanFrenchTypewriter.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
