@@ -2,3 +2,9 @@
 
 /* Style Imports */
 @import "./root.css";
+@import url("https://raw.githubusercontent.com/Nu-SCPTheme/Black-Highlighter/master/src/css/structure.css");
+@import url("https://raw.githubusercontent.com/Nu-SCPTheme/Black-Highlighter/master/src/css/main.css");
+@import url("https://raw.githubusercontent.com/Nu-SCPTheme/Black-Highlighter/master/src/css/sidebar.css");
+@import url("https://raw.githubusercontent.com/Nu-SCPTheme/Black-Highlighter/master/src/css/header.css");
+@import url("https://raw.githubusercontent.com/Nu-SCPTheme/Black-Highlighter/master/src/css/elements.css");
+@import url("https://raw.githubusercontent.com/Nu-SCPTheme/Black-Highlighter/master/src/css/translation.css");
