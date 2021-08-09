@@ -3,9 +3,9 @@
     font-style: normal;
     font-weight: 400;
     src:
-        url(NanumBarunGothic_E.woff2) format('woff2'),
-        url(NanumBarunGothic_E.woff) format('woff'),
-        url(NanumBarunGothic_E.ttf)  format('truetype');
+        url('https://cdn.jsdelivr.net/gh/XCninety/xcninety.github.io/Black-Highlighter/NanumBarunGothic_E.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/XCninety/xcninety.github.io/Black-Highlighter/NanumBarunGothic_E.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/XCninety/xcninety.github.io/Black-Highlighter/NanumBarunGothic_E.ttf')  format('truetype');
 }
 
 @font-face {
@@ -13,7 +13,7 @@
     font-style: normal;
     font-weight: 700;
     src:
-        url(NanumBarunGothicBold_E.woff2) format('woff2'),
-        url(NanumBarunGothicBold_E.woff) format('woff'),
-        url(NanumBarunGothicBold_E.ttf)  format('truetype');
+        url('https://cdn.jsdelivr.net/gh/XCninety/xcninety.github.io/Black-Highlighter/NanumBarunGothicBold_E.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/XCninety/xcninety.github.io/Black-Highlighter/NanumBarunGothicBold_E.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/XCninety/xcninety.github.io/Black-Highlighter/NanumBarunGothicBold_E.ttf')  format('truetype');
 }
