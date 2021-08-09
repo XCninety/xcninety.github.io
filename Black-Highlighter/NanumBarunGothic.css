@@ -22,6 +22,6 @@
   font-family: 'NanumBarunGothic';
   font-style: normal;
   font-weight: 400 700;
-  src: url(https://fonts.gstatic.com/s/nanumgothic/v17/PN_3Rfi-oW3hYwmKDpxS7F_z-7rJxHVIsPV5MbNO2rV2_va-Nv6p.21.woff2) format('woff2');
+  src: local(Verdana);
   unicode-range: U+2588;
 }
