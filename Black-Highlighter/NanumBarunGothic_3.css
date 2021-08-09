@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'NanumBarunCatsi';
+    font-style: normal;
+    font-weight: 400;
+    src:
+        url("./NanumBarunGothic_E.woff2") format("woff2"),
+        url("./NanumBarunGothic_E.woff") format("woff"),
+        url("./NanumBarunGothic_E.ttf")  format("truetype");
+}
+
+@font-face {
+    font-family: 'NanumBarunCatsi';
+    font-style: normal;
+    font-weight: 700;
+    src:
+        url("./NanumBarunGothicBold_E.woff2") format("woff2"),
+        url("./NanumBarunGothicBold_E.woff") format("woff"),
+        url("./NanumBarunGothicBold_E.ttf")  format("truetype");
+}
