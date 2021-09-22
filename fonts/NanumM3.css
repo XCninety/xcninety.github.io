@@ -1,8 +1,8 @@
 @font-face {
     font-family: 'NanumM3';
-    src: url('.../fonts/nanummyeongjo_3.woff2') format('woff2'),
-         url('.../fonts/nanummyeongjo_3.woff') format('woff'),
-         url('.../fonts/nanummyeongjo_3.ttf') format('truetype');
+    src: url('http://xcninety.github.io/fonts/nanummyeongjo_3.woff2') format('woff2'),
+         url('http://xcninety.github.io/fonts/nanummyeongjo_3.woff') format('woff'),
+         url('http://xcninety.github.io/fonts/nanummyeongjo_3.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 
